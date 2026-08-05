@@ -1,9 +1,7 @@
-# streamlit_application_zindi
-I have created an application for predicting CHURN 
+# Churn Prediction (Streamlit)
 
-I have used Python, Streamlit, CSS, Vscode, Machine Learning....
+A Streamlit app for predicting customer churn from uploaded data — trained with scikit-learn, served through a simple web interface.
 
-I have used the frameworks : 
-- streamlit
-- sklearn
-- pandas
+## Stack
+
+Python, Streamlit, scikit-learn, pandas
